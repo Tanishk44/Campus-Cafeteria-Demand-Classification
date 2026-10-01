@@ -1,0 +1,151 @@
+Date,Day,Food_Item,Category,Meal_Time,Price,Weather,Temperature_C,Exam_Day,Holiday,Units_Sold
+2026-07-01,Wednesday,Sandwich,Snack,Evening,50,Cloudy,27,Yes,No,30
+2026-07-02,Thursday,Sandwich,Snack,Evening,50,Rainy,25,No,No,31
+2026-07-03,Friday,Samosa,Snack,Evening,20,Sunny,32,Yes,No,49
+2026-07-04,Saturday,Puff,Snack,Evening,30,Sunny,36,No,No,27
+2026-07-05,Sunday,Puff,Snack,Evening,30,Cloudy,25,No,Yes,23
+2026-07-06,Monday,Sandwich,Snack,Evening,50,Cloudy,33,No,No,37
+2026-07-07,Tuesday,Noodles,Main Course,Lunch,90,Cloudy,25,No,No,51
+2026-07-08,Wednesday,Idli,Breakfast,Breakfast,40,Rainy,25,No,No,25
+2026-07-09,Thursday,Dosa,Breakfast,Breakfast,60,Sunny,25,No,No,44
+2026-07-10,Friday,Dosa,Breakfast,Breakfast,60,Cloudy,26,No,No,53
+2026-07-11,Saturday,Fried Rice,Main Course,Lunch,100,Rainy,34,No,No,44
+2026-07-12,Sunday,Fried Rice,Main Course,Lunch,100,Rainy,35,Yes,No,47
+2026-07-13,Monday,Fried Rice,Main Course,Lunch,100,Cloudy,30,No,No,58
+2026-07-14,Tuesday,Fried Rice,Main Course,Lunch,100,Rainy,35,No,No,53
+2026-07-15,Wednesday,Noodles,Main Course,Lunch,90,Rainy,31,No,No,44
+2026-07-16,Thursday,Biryani,Main Course,Lunch,120,Rainy,32,No,No,73
+2026-07-17,Friday,Puff,Snack,Evening,30,Sunny,32,No,No,36
+2026-07-18,Saturday,Samosa,Snack,Evening,20,Sunny,36,No,Yes,30
+2026-07-19,Sunday,Sandwich,Snack,Evening,50,Cloudy,32,No,No,35
+2026-07-20,Monday,Samosa,Snack,Evening,20,Sunny,34,No,No,58
+2026-07-21,Tuesday,Idli,Breakfast,Breakfast,40,Cloudy,26,Yes,No,33
+2026-07-22,Wednesday,Dosa,Breakfast,Breakfast,60,Sunny,32,No,No,35
+2026-07-23,Thursday,Dosa,Breakfast,Breakfast,60,Rainy,33,No,No,32
+2026-07-24,Friday,Idli,Breakfast,Breakfast,40,Rainy,36,No,No,40
+2026-07-25,Saturday,Noodles,Main Course,Lunch,90,Cloudy,27,Yes,No,42
+2026-07-26,Sunday,Sandwich,Snack,Evening,50,Sunny,36,Yes,No,27
+2026-07-27,Monday,Noodles,Main Course,Lunch,90,Sunny,28,No,No,68
+2026-07-28,Tuesday,Fried Rice,Main Course,Lunch,100,Rainy,35,No,No,52
+2026-07-29,Wednesday,Puff,Snack,Evening,30,Rainy,29,No,No,42
+2026-07-30,Thursday,Noodles,Main Course,Lunch,90,Sunny,25,Yes,No,44
+2026-07-31,Friday,Fried Rice,Main Course,Lunch,100,Sunny,25,No,No,63
+2026-08-01,Saturday,Fried Rice,Main Course,Lunch,100,Cloudy,25,Yes,Yes,50
+2026-08-02,Sunday,Noodles,Main Course,Lunch,90,Rainy,33,No,Yes,49
+2026-08-03,Monday,Puff,Snack,Evening,30,Sunny,34,Yes,No,49
+2026-08-04,Tuesday,Puff,Snack,Evening,30,Rainy,24,No,No,16
+2026-08-05,Wednesday,Puff,Snack,Evening,30,Sunny,27,No,No,28
+2026-08-06,Thursday,Fried Rice,Main Course,Lunch,100,Sunny,30,No,No,52
+2026-08-07,Friday,Dosa,Breakfast,Breakfast,60,Sunny,31,No,No,48
+2026-08-08,Saturday,Samosa,Snack,Evening,20,Sunny,25,No,No,44
+2026-08-09,Sunday,Biryani,Main Course,Lunch,120,Cloudy,24,No,No,67
+2026-08-10,Monday,Puff,Snack,Evening,30,Cloudy,28,Yes,No,48
+2026-08-11,Tuesday,Noodles,Main Course,Lunch,90,Cloudy,27,Yes,No,36
+2026-08-12,Wednesday,Idli,Breakfast,Breakfast,40,Rainy,31,Yes,No,31
+2026-08-13,Thursday,Sandwich,Snack,Evening,50,Sunny,33,No,No,29
+2026-08-14,Friday,Fried Rice,Main Course,Lunch,100,Rainy,27,No,No,54
+2026-08-15,Saturday,Puff,Snack,Evening,30,Cloudy,28,No,No,28
+2026-08-16,Sunday,Idli,Breakfast,Breakfast,40,Rainy,34,No,No,40
+2026-08-17,Monday,Idli,Breakfast,Breakfast,40,Sunny,24,No,No,42
+2026-08-18,Tuesday,Sandwich,Snack,Evening,50,Rainy,28,No,No,32
+2026-08-19,Wednesday,Sandwich,Snack,Evening,50,Cloudy,28,No,No,32
+2026-08-20,Thursday,Noodles,Main Course,Lunch,90,Rainy,28,No,No,41
+2026-08-21,Friday,Sandwich,Snack,Evening,50,Sunny,28,No,No,36
+2026-08-22,Saturday,Biryani,Main Course,Lunch,120,Rainy,29,No,No,66
+2026-08-23,Sunday,Noodles,Main Course,Lunch,90,Sunny,25,No,No,55
+2026-08-24,Monday,Dosa,Breakfast,Breakfast,60,Cloudy,36,Yes,No,44
+2026-08-25,Tuesday,Noodles,Main Course,Lunch,90,Cloudy,32,No,No,42
+2026-08-26,Wednesday,Sandwich,Snack,Evening,50,Rainy,26,Yes,No,25
+2026-08-27,Thursday,Puff,Snack,Evening,30,Cloudy,29,Yes,No,26
+2026-08-28,Friday,Fried Rice,Main Course,Lunch,100,Rainy,25,No,No,64
+2026-08-29,Saturday,Fried Rice,Main Course,Lunch,100,Sunny,30,No,No,47
+2026-08-30,Sunday,Biryani,Main Course,Lunch,120,Cloudy,36,No,Yes,49
+2026-08-31,Monday,Dosa,Breakfast,Breakfast,60,Rainy,25,Yes,No,48
+2026-09-01,Tuesday,Fried Rice,Main Course,Lunch,100,Cloudy,29,No,No,56
+2026-09-02,Wednesday,Fried Rice,Main Course,Lunch,100,Rainy,27,No,No,59
+2026-09-03,Thursday,Dosa,Breakfast,Breakfast,60,Cloudy,29,No,No,48
+2026-09-04,Friday,Puff,Snack,Evening,30,Rainy,29,No,No,28
+2026-09-05,Saturday,Biryani,Main Course,Lunch,120,Sunny,25,No,No,75
+2026-09-06,Sunday,Idli,Breakfast,Breakfast,40,Rainy,32,No,Yes,10
+2026-09-07,Monday,Dosa,Breakfast,Breakfast,60,Cloudy,24,Yes,No,54
+2026-09-08,Tuesday,Puff,Snack,Evening,30,Rainy,29,Yes,No,26
+2026-09-09,Wednesday,Dosa,Breakfast,Breakfast,60,Cloudy,30,No,No,41
+2026-09-10,Thursday,Biryani,Main Course,Lunch,120,Rainy,30,Yes,No,70
+2026-09-11,Friday,Samosa,Snack,Evening,20,Sunny,30,No,No,61
+2026-09-12,Saturday,Noodles,Main Course,Lunch,90,Rainy,31,No,No,39
+2026-09-13,Sunday,Dosa,Breakfast,Breakfast,60,Cloudy,25,No,No,39
+2026-09-14,Monday,Dosa,Breakfast,Breakfast,60,Sunny,26,No,No,38
+2026-09-15,Tuesday,Fried Rice,Main Course,Lunch,100,Rainy,36,No,No,53
+2026-09-16,Wednesday,Puff,Snack,Evening,30,Rainy,27,No,No,39
+2026-09-17,Thursday,Puff,Snack,Evening,30,Rainy,35,No,No,15
+2026-09-18,Friday,Puff,Snack,Evening,30,Rainy,32,No,No,32
+2026-09-19,Saturday,Sandwich,Snack,Evening,50,Rainy,32,No,No,41
+2026-09-20,Sunday,Puff,Snack,Evening,30,Sunny,35,No,No,37
+2026-09-21,Monday,Noodles,Main Course,Lunch,90,Sunny,34,No,No,67
+2026-09-22,Tuesday,Noodles,Main Course,Lunch,90,Cloudy,31,No,No,44
+2026-09-23,Wednesday,Dosa,Breakfast,Breakfast,60,Cloudy,29,No,No,34
+2026-09-24,Thursday,Biryani,Main Course,Lunch,120,Cloudy,35,Yes,No,64
+2026-09-25,Friday,Sandwich,Snack,Evening,50,Cloudy,32,No,No,52
+2026-09-26,Saturday,Samosa,Snack,Evening,20,Rainy,35,No,No,39
+2026-09-27,Sunday,Noodles,Main Course,Lunch,90,Cloudy,30,Yes,No,56
+2026-09-28,Monday,Fried Rice,Main Course,Lunch,100,Cloudy,24,No,No,68
+2026-09-29,Tuesday,Puff,Snack,Evening,30,Cloudy,26,No,No,22
+2026-09-30,Wednesday,Puff,Snack,Evening,30,Rainy,24,No,No,27
+2026-10-01,Thursday,Biryani,Main Course,Lunch,120,Sunny,24,No,No,70
+2026-10-02,Friday,Puff,Snack,Evening,30,Cloudy,29,No,No,44
+2026-10-03,Saturday,Dosa,Breakfast,Breakfast,60,Cloudy,25,No,No,47
+2026-10-04,Sunday,Samosa,Snack,Evening,20,Cloudy,27,No,Yes,19
+2026-10-05,Monday,Samosa,Snack,Evening,20,Sunny,27,No,No,46
+2026-10-06,Tuesday,Fried Rice,Main Course,Lunch,100,Rainy,25,Yes,No,57
+2026-10-07,Wednesday,Idli,Breakfast,Breakfast,40,Rainy,35,Yes,No,26
+2026-10-08,Thursday,Sandwich,Snack,Evening,50,Cloudy,33,No,No,39
+2026-10-09,Friday,Puff,Snack,Evening,30,Sunny,25,No,No,43
+2026-10-10,Saturday,Sandwich,Snack,Evening,50,Rainy,33,No,Yes,10
+2026-10-11,Sunday,Idli,Breakfast,Breakfast,40,Sunny,32,No,No,37
+2026-10-12,Monday,Samosa,Snack,Evening,20,Cloudy,25,No,No,59
+2026-10-13,Tuesday,Noodles,Main Course,Lunch,90,Cloudy,26,No,No,58
+2026-10-14,Wednesday,Dosa,Breakfast,Breakfast,60,Rainy,36,No,No,51
+2026-10-15,Thursday,Puff,Snack,Evening,30,Rainy,28,No,No,29
+2026-10-16,Friday,Sandwich,Snack,Evening,50,Cloudy,27,No,No,51
+2026-10-17,Saturday,Idli,Breakfast,Breakfast,40,Sunny,31,Yes,No,36
+2026-10-18,Sunday,Dosa,Breakfast,Breakfast,60,Rainy,28,No,No,38
+2026-10-19,Monday,Fried Rice,Main Course,Lunch,100,Rainy,30,Yes,No,78
+2026-10-20,Tuesday,Noodles,Main Course,Lunch,90,Sunny,28,No,No,49
+2026-10-21,Wednesday,Puff,Snack,Evening,30,Cloudy,34,No,No,33
+2026-10-22,Thursday,Noodles,Main Course,Lunch,90,Cloudy,30,No,No,52
+2026-10-23,Friday,Idli,Breakfast,Breakfast,40,Cloudy,28,No,No,43
+2026-10-24,Saturday,Sandwich,Snack,Evening,50,Rainy,32,No,Yes,15
+2026-10-25,Sunday,Noodles,Main Course,Lunch,90,Rainy,33,No,No,44
+2026-10-26,Monday,Fried Rice,Main Course,Lunch,100,Cloudy,26,No,No,56
+2026-10-27,Tuesday,Biryani,Main Course,Lunch,120,Sunny,32,No,No,71
+2026-10-28,Wednesday,Biryani,Main Course,Lunch,120,Cloudy,25,No,No,62
+2026-10-29,Thursday,Dosa,Breakfast,Breakfast,60,Cloudy,29,No,No,37
+2026-10-30,Friday,Samosa,Snack,Evening,20,Cloudy,25,No,No,55
+2026-10-31,Saturday,Noodles,Main Course,Lunch,90,Sunny,26,Yes,No,47
+2026-11-01,Sunday,Sandwich,Snack,Evening,50,Cloudy,33,No,Yes,15
+2026-11-02,Monday,Puff,Snack,Evening,30,Cloudy,28,No,No,49
+2026-11-03,Tuesday,Dosa,Breakfast,Breakfast,60,Sunny,33,No,No,35
+2026-11-04,Wednesday,Fried Rice,Main Course,Lunch,100,Cloudy,34,No,No,49
+2026-11-05,Thursday,Biryani,Main Course,Lunch,120,Rainy,25,No,No,57
+2026-11-06,Friday,Puff,Snack,Evening,30,Rainy,31,No,No,29
+2026-11-07,Saturday,Dosa,Breakfast,Breakfast,60,Cloudy,25,No,No,39
+2026-11-08,Sunday,Dosa,Breakfast,Breakfast,60,Rainy,36,No,No,41
+2026-11-09,Monday,Sandwich,Snack,Evening,50,Rainy,26,No,No,32
+2026-11-10,Tuesday,Samosa,Snack,Evening,20,Cloudy,33,Yes,No,52
+2026-11-11,Wednesday,Sandwich,Snack,Evening,50,Cloudy,35,No,No,39
+2026-11-12,Thursday,Dosa,Breakfast,Breakfast,60,Cloudy,31,No,No,34
+2026-11-13,Friday,Samosa,Snack,Evening,20,Rainy,29,No,No,49
+2026-11-14,Saturday,Sandwich,Snack,Evening,50,Rainy,33,No,No,25
+2026-11-15,Sunday,Samosa,Snack,Evening,20,Rainy,34,No,Yes,32
+2026-11-16,Monday,Puff,Snack,Evening,30,Cloudy,25,No,No,45
+2026-11-17,Tuesday,Puff,Snack,Evening,30,Rainy,25,No,No,27
+2026-11-18,Wednesday,Puff,Snack,Evening,30,Cloudy,34,No,No,34
+2026-11-19,Thursday,Samosa,Snack,Evening,20,Cloudy,28,No,No,47
+2026-11-20,Friday,Sandwich,Snack,Evening,50,Cloudy,32,No,No,46
+2026-11-21,Saturday,Puff,Snack,Evening,30,Rainy,36,Yes,No,34
+2026-11-22,Sunday,Fried Rice,Main Course,Lunch,100,Cloudy,31,No,Yes,33
+2026-11-23,Monday,Samosa,Snack,Evening,20,Rainy,36,No,No,49
+2026-11-24,Tuesday,Samosa,Snack,Evening,20,Sunny,27,No,No,40
+2026-11-25,Wednesday,Noodles,Main Course,Lunch,90,Rainy,26,No,No,56
+2026-11-26,Thursday,Dosa,Breakfast,Breakfast,60,Cloudy,31,No,No,39
+2026-11-27,Friday,Noodles,Main Course,Lunch,90,Cloudy,27,No,No,72
